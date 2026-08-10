@@ -19,7 +19,7 @@ package org.apache.pdfbox.spring.boot;
  * *******************************************************************
  * @className	： PdfboxToText
  * @description	： TODO(描述这个类的作用)
- * @author 		： <a href="mailto:hnxyhcwdl1003@163.com">wandalong</a>
+ * @author <a href="https://github.com/loong10k">Loong Wan</a>
  * @date		： Dec 28, 2016 9:40:27 PM
  * @version 	V1.0 
  * *******************************************************************
